@@ -1,2 +1,2 @@
 # Loading-Icon
-<h1> A loading icon design </h1>
+<h5> A loading icon design </h5>
